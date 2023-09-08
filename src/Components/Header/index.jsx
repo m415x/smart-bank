@@ -33,7 +33,7 @@ const Header = () => {
     <StyledHeader>
       <Logo src={logo} alt="Logo Smart Bank" />
       <div>
-        <BtnHeader primary href="https://google.com">
+        <BtnHeader primary="true" href="https://google.com">
           Ayuda
         </BtnHeader>
         <BtnHeader href="https://google.com">
